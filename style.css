@@ -1,0 +1,70 @@
+
+.header {background-color: #1F2937;
+    display: block;
+    justify-content: space-between;
+}
+
+.logolink {display: flex;
+justify-content: space-between;}
+
+
+.link {display: flex;
+justify-content: space-between;}
+
+.website {display: block;
+padding-left: 40px;
+padding-bottom: 80px;
+}
+
+
+h3 {color: #F9FAF8;
+font-weight: 48px extra-bold;}
+
+p {color: #E5E7EB;}
+
+h5 {font-weight: 24px;
+color: #F9FAF8;
+padding-left: 40px;}
+
+h6 {font-weight: 24px;
+color: #E5E7EB;
+margin: 10px;}
+
+
+
+
+.button {background-color: #3882F6;
+padding: 5px 20px ;
+color: #F9FAF8;
+}
+
+#random {padding: 150px;
+padding-top: 20px;
+display: flex; 
+}
+
+
+h4 {text-align: center;}
+
+#quote {background-color: #E5E7EB;
+padding: 60px;
+font-weight: 36px light italic;
+color: #1F2937;
+text-align: center;}
+
+.action {background-color: #3882F6;
+margin: 100px;
+padding: 20px;
+padding-left: 100px;
+display: flex;}
+
+.button2 {background-color: #3882F6;
+    padding: 5px 20px ;
+    color: #F9FAF8;
+    }
+
+footer {background-color: #1F2937;
+color: #E5E7EB;
+padding: 15px;
+text-align: center;
+font-weight: 5px;}
